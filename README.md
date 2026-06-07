@@ -4,6 +4,7 @@
 Interactive Power BI dashboard analyzing 3,000 global space missions across 10 countries over 25 years.
 
 📊 Dashboard Preview
+![Dashboard](dashboard_preview.png)
 
 
 🔍 Key Insights
